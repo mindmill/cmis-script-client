@@ -16,3 +16,5 @@ threads=1                               #number of threads to start
 script=template                         #the name of the groovy script in the scripts folder
 ```
 
+## License
+Licensed under the Apache License, Version 2.0
